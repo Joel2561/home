@@ -19,13 +19,8 @@
     "tip": "来封 Email ~",
     "url": "mailto:yujiale2561@163.com"
 }, {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/yujiale"
-}, {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "url": "https://t.me/yujiale"
 }]
