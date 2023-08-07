@@ -76,6 +76,8 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  BookReader,
+  Microblog,
 };
 
 // 链接跳转
