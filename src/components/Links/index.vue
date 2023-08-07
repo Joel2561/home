@@ -55,8 +55,8 @@ import {
   Cloud,
   Compass,
   Book,
-  Fire,
-  LaptopCode,
+  BookReader,
+  Microblog,
 } from "@vicons/fa";
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
