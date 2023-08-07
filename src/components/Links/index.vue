@@ -74,8 +74,6 @@ const siteIcon = {
   CompactDisc,
   Compass,
   Book,
-  Fire,
-  LaptopCode,
   BookReader,
   Microblog,
 };
